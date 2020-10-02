@@ -1,6 +1,6 @@
 {
-  "name": "simplon/helper",
-  "description": "Helpers for recurring requirements",
+  "name": "gimmenetwork/simplon_helper",
+  "description": "[FORK] Helpers for recurring requirements",
   "homepage": "https://github.com/fightbulc/simplon_helper",
   "type": "library",
   "keywords": [
