@@ -25,5 +25,8 @@
     "psr-4": {
       "Simplon\\Helper\\": "src/"
     }
+  },
+  "replace": {
+    "simplon/helper": "1.*"
   }
 }
